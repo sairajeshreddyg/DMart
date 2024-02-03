@@ -28,3 +28,4 @@
 /Users/rajesh.reddy1/Desktop/DMart/obj/Debug/net8.0/DMart.pdb
 /Users/rajesh.reddy1/Desktop/DMart/obj/Debug/net8.0/DMart.genruntimeconfig.cache
 /Users/rajesh.reddy1/Desktop/DMart/obj/Debug/net8.0/ref/DMart.dll
+/Users/rajesh.reddy1/Desktop/DMart/obj/Debug/net8.0/DMart.sourcelink.json
